@@ -148,6 +148,52 @@ holidays:
       "2022-09-26":
         name:
           en: National Day of Mourning for Queen Elizabeth II
+      # @source https://www.education.govt.nz/school/school-terms-and-holiday-dates/
+      "2024-01-01" P27D:
+        name:
+          en: New Year's Break
+        type: school
+      "2024-04-02":
+        name:
+          en: Easter Tuesday
+        type: school
+      "2024-04-13" P15D:
+        name:
+          en: End of Term 1
+        type: school
+      "2024-07-06" P15D:
+        name:
+          en: End of Term 2
+        type: school
+      "2024-09-28" P15D:
+        name:
+          en: End of Term 3
+        type: school
+      "2024-12-21" P10D:
+        name:
+          en: Christmas Break
+        type: school
+    # @source https://www.education.govt.nz/school/school-terms-and-holiday-dates/
+      "2025-01-01" P25D:
+        name:
+          en: New Year's Break
+        type: school
+      "2025-04-12" P15D:
+        name:
+          en: End of Term 1
+        type: school
+      "2025-06-28" P15D:
+        name:
+          en: End of Term 2
+        type: school
+      "2025-09-20" P15D:
+        name:
+          en: End of Term 3
+        type: school
+      "2025-12-20" P11D:
+        name:
+          en: Christmas Break
+        type: school
     states:
       AUK:
         names:
