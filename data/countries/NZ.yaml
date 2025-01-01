@@ -148,6 +148,28 @@ holidays:
       "2022-09-26":
         name:
           en: National Day of Mourning for Queen Elizabeth II
+      # @source https://www.education.govt.nz/school/school-terms-and-holiday-dates
+      "2024-12-21" P47D:
+        name:
+          en: Summer Holidays
+          type: school
+      # @source https://www.education.govt.nz/school/school-terms-and-holiday-dates
+      "2025-04-12" P15D:
+        name:
+          en: Term 1 Break
+          type: school
+      "2025-06-28" P15D:
+        name:
+          en: Term 2 Break
+          type: school
+      "2025-09-20" P15D:
+        name:
+          en: Term 3 Break
+          type: school
+      "2025-12-20" P50D:
+        name:
+          en: Summer Holidays
+          type: school
     states:
       AUK:
         names:
